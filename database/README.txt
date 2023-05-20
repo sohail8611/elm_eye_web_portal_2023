@@ -1,0 +1,1 @@
+1- Insert Map api in the "map_api" table
